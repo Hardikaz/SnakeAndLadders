@@ -10,6 +10,6 @@
 - Press 0 to end the game
 - If you get a six on your dice you will get one more chance 
 - If you reach a ladder you will be climbed up
-- If you will get bitten by a snake you be puuled down to the tail
+- If you will get bitten by a snake you be pulled down to the tail
 - You have to score 100 to win the game
 - It is a single player game
