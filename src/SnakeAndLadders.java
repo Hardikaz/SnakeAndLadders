@@ -42,7 +42,7 @@ public class SnakeAndLadders {
             if (ch == 1) {
                 double random = Math.random() * ((max - min + 1) + min);     //generating a random decimal numbers
                 dice = (int) random;//storing the integer part of decimal number for dice
-//               dice=sc.nextInt(); // to check for random places
+
                 if (dice == 0) {
                     continue;
                 }
